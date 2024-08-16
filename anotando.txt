@@ -1,0 +1,7 @@
+npx roda scripts
+
+extensão prisma
+
+SQLite
+alexcvzz
+Explore and query SQLite databases.
